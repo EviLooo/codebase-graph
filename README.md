@@ -1,3 +1,6 @@
+
+Note : (THIS IS STILL UNDER PROGRESS AND NOT READY TO BE USED!)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
